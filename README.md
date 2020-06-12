@@ -27,7 +27,7 @@ Legacy code koans are designed and maintained by [Exeal](https://twitter.com/exe
 
 ## License
 
-http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png
+![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
 This project is released under a Creative Commons,
 Attribution-NonCommercial-ShareAlike, Version 3.0
