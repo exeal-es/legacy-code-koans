@@ -1,6 +1,6 @@
 # Legacy code koans
 
-This repository contains some small exercises to practice different techniques used while working with legacy code.
+This repository contains some small exercises to practice different techniques used while working with object oriented legacy code.
 
 > The name *kōan* comes from [Zen](https://en.wikipedia.org/wiki/Zen), and means *a story, dialogue, question, or statement which is used to provoke the "great doubt" and to practice or test a student's progress*. Applicability to software development is inspired by [Ruby koans](http://rubykoans.com/).
 
