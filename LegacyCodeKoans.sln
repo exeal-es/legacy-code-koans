@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeKoans", "LegacyCodeKoans\LegacyCodeKoans.csproj", "{E161C17B-EF5F-437E-8789-96F4E5281ED8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeKoans", "src\LegacyCodeKoans\LegacyCodeKoans.csproj", "{E161C17B-EF5F-437E-8789-96F4E5281ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
