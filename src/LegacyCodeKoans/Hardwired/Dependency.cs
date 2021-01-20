@@ -6,7 +6,7 @@ namespace LegacyCodeKoans.Hardwired
     {
         public void SomeSideEffect()
         {
-            Console.WriteLine("This method should not be called in a unit test!");
+            throw new Exception("This method should not be called in a unit test!");
         }
     }
 }
