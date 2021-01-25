@@ -1,13 +1,14 @@
 using Xunit;
 
-namespace LegacyCodeKoans.StaticClass
+namespace LegacyCodeKoans.StaticMethod
 {
     public class ServiceShould
     {
         [Fact]
         public void DoSomething()
         {
-            Service.DoSomething();
+            var service = new Service();
+            service.DoSomething();
 
             // TODO: Assert Dependency.SomeSideEffect() method was called
         }

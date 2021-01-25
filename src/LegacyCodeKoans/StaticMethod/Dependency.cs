@@ -1,8 +1,8 @@
 using System;
 
-namespace LegacyCodeKoans.StaticClass
+namespace LegacyCodeKoans.StaticMethod
 {
-    public static class Dependency
+    public class Dependency
     {
         public static void SomeSideEffect()
         {

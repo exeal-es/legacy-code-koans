@@ -1,8 +1,8 @@
 namespace LegacyCodeKoans.StaticClass
 {
-    public class Service
+    public static class Service
     {
-        public void DoSomething()
+        public static void DoSomething()
         {
             Dependency.SomeSideEffect();
         }

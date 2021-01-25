@@ -25,7 +25,8 @@ Cases include:
 - [Unmockable](src/LegacyCodeKoans/Unmockable): a test double of `Dependency` cannot be created and provided to `Service`, since `Dependency` class methods are final.
 - [Hardwired](src/LegacyCodeKoans/Hardwired): a test double of `Dependency` cannot be provided, because an instance is created from inside `Service`.
 - [Singleton](src/LegacyCodeKoans/Singleton): a test double of `Dependency` cannot be used, because `Service` references directly to a global, single instance of `Dependency`.
-- [Static class](src/LegacyCodeKoans/StaticClass): a test double of `Dependency` cannot be created and provided to `Service` because calls to static methods cannot be intercepted. 
+- [Static method](src/LegacyCodeKoans/StaticMethod): a test double of `Dependency` cannot be created and provided to `Service` because calls to static methods cannot be intercepted.
+- [Static class](src/LegacyCodeKoans/StaticClass): a test double of `Dependency` cannot be provided to `Service` because host class is static and cannot receive dependencies via injection.
 
 ## Credits
 
